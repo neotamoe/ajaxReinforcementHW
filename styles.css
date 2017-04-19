@@ -1,0 +1,24 @@
+
+
+h3 {
+  text-align: center;
+}
+
+body{
+  background-color: silver;
+}
+
+td{
+  width: 500px;
+  text-align: center;
+}
+
+img {
+  width: 350px;
+}
+
+.theater {
+  border-style: dashed;
+  border-color: black;
+  border-width: medium;
+}
