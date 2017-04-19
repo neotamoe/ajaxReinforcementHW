@@ -1,11 +1,10 @@
 
-
 h3 {
   text-align: center;
 }
 
 body{
-  background-color: silver;
+  background-color: lavender;
 }
 
 td{
@@ -19,6 +18,6 @@ img {
 
 .theater {
   border-style: dashed;
-  border-color: black;
+  border-color: purple;
   border-width: medium;
 }
